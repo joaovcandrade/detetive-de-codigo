@@ -12,7 +12,7 @@ Para garantir que nenhuma pista escape e que a investigação seja conduzida de 
 
 3. **Neutralize a Ameaça.** Corrija o código no arquivo apropriado até que todos os testes passem. Lembre‑se de que as correções devem ser cirúrgicas: apenas o necessário para que o algoritmo volte a se comportar corretamente.
 
-4. **Arquive o Caso (NOVO).** Um bom detetive deixa um rastro de papel limpo. Depois de eliminar o bug, você deve documentar oficialmente sua solução. Adicione um comentário Javadoc completo acima do método que corrigiu. Este resumo é crucial para futuros detetives! Inclua a tag personalizada `@correction-log` para descrever o erro encontrado e como foi corrigido.
+4. **Arquive o Caso.** Um bom detetive deixa um rastro de papel limpo. Depois de eliminar o bug, você deve documentar oficialmente sua solução. Adicione um comentário Javadoc completo acima do método que corrigiu. Este resumo é crucial para futuros detetives! Inclua a tag personalizada `@correction-log` para descrever o erro encontrado e como foi corrigido.
 
 5. **Feche o Caso.** Faça o commit de suas modificações usando a mensagem padronizada: `case-closed: Descreve a solução – Caso XXX`. Substitua `XXX` pelo identificador do caso corrigido (por exemplo, `B-01` ou `S-01`).
 
